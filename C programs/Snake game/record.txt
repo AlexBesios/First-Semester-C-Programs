@@ -1,0 +1,36 @@
+Player Name :Alex
+Played Date:Wed Jan 19 05:23:53 2022
+Score:7
+___________________________________________________
+Player Name :Alex2
+Played Date:Wed Jan 19 05:26:54 2022
+Score:28
+___________________________________________________
+Player Name :Alex3
+Played Date:Wed Jan 19 05:35:00 2022
+Score:28
+___________________________________________________
+Player Name :Psifiaka
+Played Date:Sun Jan 23 20:40:35 2022
+Score:13
+___________________________________________________
+Player Name :m
+Played Date:Tue Jan 25 20:41:21 2022
+Score:13
+___________________________________________________
+Player Name :Kwlos
+Played Date:Tue Feb 01 23:17:51 2022
+Score:4
+___________________________________________________
+Player Name :HM
+Played Date:Mon Feb 07 19:24:08 2022
+Score:9
+___________________________________________________
+Player Name :Kurkas
+Played Date:Mon Mar 14 14:26:03 2022
+Score:1
+___________________________________________________
+Player Name :Alex4
+Played Date:Sun Feb 05 18:53:44 2023
+Score:6
+___________________________________________________
